@@ -110,6 +110,10 @@ If you use this repository, please cite the associated manuscript:
 
 The citation should be updated with the final journal reference once the paper is published.
 
+## AI Assistance Note
+
+This README file was prepared with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified, please contact the author, who will be happy to review and resolve it.
+
 ## License
 
 This repository is distributed under the license provided in the `LICENSE` file.

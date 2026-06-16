@@ -110,6 +110,17 @@ If you use this repository, please cite the associated manuscript:
 
 The citation should be updated with the final journal reference once the paper is published.
 
+## Author Information
+
+| Author | Profile |
+|---|---|
+| Ramesh Bhatta | [Google Scholar](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en) |
+| Manisha Das Chaity | [Google Scholar](https://scholar.google.com/citations?user=kaMzs9YAAAAJ&hl=en) |
+| Sagar Lekhak | [Google Scholar](https://scholar.google.com/citations?user=Mkf-WgsAAAAJ&hl=en) |
+| Jasper Slingsby | [Google Scholar](https://scholar.google.com/citations?user=ZjBauSkAAAAJ&hl=en) |
+| Jan van Aardt | [Google Scholar](https://scholar.google.com/citations?user=GdWlA6gAAAAJ&hl=en) |
+
+
 ## AI Assistance Note
 
 This README file was prepared with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified and reported,the author would be happy to review and resolve it.

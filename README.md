@@ -66,7 +66,7 @@ Main notebook for UAS MSI and AVIRIS-NG modeling analysis, including vegetation-
 
 This repository contains processed data and analysis products required to reproduce the main modeling results. Large raw remote sensing datasets, original UAS image collections, and full AVIRIS-NG flightline products are not included.
 
-Raw CI-110 ground measurement files are planned for a future repository update. The currently included `ground_LAI_data_processed/` folder contains the processed LAI data within the spatial information (shapefile) used in the manuscript analyses.
+Raw CI-110 ground measurement files are included in the directory `Raw_CI_110_LAI_data`. The `ground_LAI_data_processed/` folder contains processed LAI data within the spatial shapefile used in the manuscript analyses.
 
 The manuscript explains the full processing workflow, including:
 

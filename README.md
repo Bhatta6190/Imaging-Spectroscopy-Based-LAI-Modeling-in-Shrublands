@@ -90,15 +90,15 @@ The analysis notebooks were developed in Python. Common scientific Python librar
 - `matplotlib`
 - `seaborn`
 
-Additional package requirements may depend on the local geospatial Python environment used to run the notebooks.
+Additional package requirements may depend on the local geospatial Python environment used to run the notebooks. Kindly, refer to the notebooks for all needed packages.
 
 ## Recommended Use
 
 To reproduce the analysis, run the notebooks in the following general order:
 
-1. `uas_and_AVIRIS_NG_modeling_analysis.ipynb`
-2. `Airborne_MSI_analysis.ipynb`
-3. `HSI_band_ratio_optimization.ipynb`
+1. `HSI_band_ratio_optimization.ipynb`
+2. `uas_and_AVIRIS_NG_modeling_analysis.ipynb`
+3. `Airborne_MSI_analysis.ipynb`
 
 Users should refer to the manuscript for detailed methodological context, including data preprocessing, predictor definitions, model forms, validation strategy, and interpretation of the LAI products.
 
@@ -112,7 +112,7 @@ The citation should be updated with the final journal reference once the paper i
 
 ## AI Assistance Note
 
-This README file was prepared with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified, please contact the author, who will be happy to review and resolve it.
+This README file was prepared with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified and reported,the author would be happy to review and resolve it.
 
 ## License
 

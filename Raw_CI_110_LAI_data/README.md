@@ -4,4 +4,4 @@ Raw CI-110 field data is added here to document the original LAI measurements co
 
 The raw file names follow this convention: `GBS` = Grootbos, `06/16/17/19/20` = burn year, `P` = fixed survey plot, numeric values = random-point identifiers, and the final suffix such as `_1`, `_2`, or `_3` = replicate number. For example, `GBS06P_2` refers to replicate 2 from the fixed survey plot in the 2006 burn block, while `GBS1619_1` refers to replicate 1 from random point 19 in the 2016 burn block.
 
-`Credit`: The field dataset was collected by Jasper Slingsby and the field team.
+### `Credit`: The field dataset was collected by Jasper Slingsby and the field team.

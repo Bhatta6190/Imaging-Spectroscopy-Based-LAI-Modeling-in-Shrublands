@@ -112,13 +112,13 @@ The citation should be updated with the final journal reference once the paper i
 
 ## Author Information
 
-| Author Profile |
-|---|---|
-| Ramesh Bhatta | [Google Scholar](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en) |
-| Manisha Das Chaity | [Google Scholar](https://scholar.google.com/citations?user=kaMzs9YAAAAJ&hl=en) |
-| Sagar Lekhak | [Google Scholar](https://scholar.google.com/citations?user=Mkf-WgsAAAAJ&hl=en) |
-| Jasper Slingsby | [Google Scholar](https://scholar.google.com/citations?user=ZjBauSkAAAAJ&hl=en) |
-| Jan van Aardt | [Google Scholar](https://scholar.google.com/citations?user=GdWlA6gAAAAJ&hl=en) |
+| Author |
+|---|
+| [Ramesh Bhatta](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en) |
+| [Manisha Das Chaity](https://scholar.google.com/citations?user=kaMzs9YAAAAJ&hl=en) |
+| [Sagar Lekhak](https://scholar.google.com/citations?user=Mkf-WgsAAAAJ&hl=en) |
+| [Jasper Slingsby](https://scholar.google.com/citations?user=ZjBauSkAAAAJ&hl=en) |
+| [Jan van Aardt](https://scholar.google.com/citations?user=GdWlA6gAAAAJ&hl=en) |
 
 
 ## AI Assistance Note

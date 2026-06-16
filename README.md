@@ -112,7 +112,7 @@ The citation should be updated with the final journal reference once the paper i
 
 ## Author Information
 
-| Author | Profile |
+| Author Profile |
 |---|---|
 | Ramesh Bhatta | [Google Scholar](https://scholar.google.com/citations?user=O7m5LxEAAAAJ&hl=en) |
 | Manisha Das Chaity | [Google Scholar](https://scholar.google.com/citations?user=kaMzs9YAAAAJ&hl=en) |

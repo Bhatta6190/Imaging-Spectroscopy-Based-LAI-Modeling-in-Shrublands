@@ -104,7 +104,7 @@ Users should refer to the manuscript for detailed methodological context, includ
 
 ## Citation
 
-If you use this repository, please cite the associated manuscript:
+If you use any materials within this repository, please cite the associated manuscript:
 
 > Bhatta, R., Chancia, R., Chaity, M. D., Lekhak, S., Slingsby, J., and van Aardt, J. UAS-Guided Harmonization of Airborne Imaging Spectroscopy for Scaling Leaf Area Index Retrieval in Fire-Driven Mediterranean Shrublands. Manuscript in preparation.
 

@@ -29,9 +29,9 @@ The analysis focuses on:
 ├── AVIRIS_Predicted_LAI_Rasters/
 ├── Fire_boundaries_shapes/
 ├── ground_LAI_data_processed/
-├── Airborne_MSI_analysis_v2.ipynb
-├── HSI_band_ratio_optimization_v2.ipynb
-├── uas_and_AVIRIS_NG_modeling_analysis_v2.ipynb
+├── Airborne_MSI_analysis.ipynb
+├── HSI_band_ratio_optimization.ipynb
+├── uas_and_AVIRIS_NG_modeling_analysis.ipynb
 ├── LICENSE
 └── README.md
 ```
@@ -50,15 +50,15 @@ Contains fire-boundary shapefiles used to define and visualize the post-burn chr
 
 Contains processed ground LAI data used for model calibration and evaluation. These data are derived from CI-110 Plant Canopy Analyzer hemispherical imagery and gap-fraction processing. The field-measurement workflow, image thresholding, zenith-angle restriction, and plot-level LAI processing are described in the manuscript.
 
-### `Airborne_MSI_analysis_v2.ipynb`
+### `Airborne_MSI_analysis.ipynb`
 
 Notebook for airborne MSI-equivalent analysis. AVIRIS-NG spectra are convolved with the measured DJI Mavic 3M spectral response functions and spatially matched with UAS observations. The notebook includes raw UAS--airborne correspondence, spatial-scale analysis, spatially validated band- and index-level harmonization, common-sample LAI comparisons, and supporting L2A/L2B, spectral-response, and coregistration sensitivity analyses.
 
-### `HSI_band_ratio_optimization_v2.ipynb`
+### `HSI_band_ratio_optimization.ipynb`
 
 Notebook for full-spectrum AVIRIS-NG hyperspectral analysis, including normalized-difference wavelength-pair screening, wavelength-selection stability, spectral-index analysis, and evaluation of the SWIR-sensitive `Custom_SWIR_Primary` predictor for LAI estimation.
 
-### `uas_and_AVIRIS_NG_modeling_analysis_v2.ipynb`
+### `uas_and_AVIRIS_NG_modeling_analysis.ipynb`
 
 Notebook for UAS MSI and full-spectrum AVIRIS-NG modeling. It includes the UAS-based LAI baseline, UAS-guided full-spectrum spectral adjustment, comparison of raw and adjusted HSI relationships, and landscape-scale application of the fixed SWIR-based LAI model.
 
@@ -98,9 +98,9 @@ Additional package requirements may depend on the local geospatial Python enviro
 
 To reproduce the analysis, run the notebooks in the following general order:
 
-1. `HSI_band_ratio_optimization_v2.ipynb`
-2. `Airborne_MSI_analysis_v2.ipynb`
-3. `uas_and_AVIRIS_NG_modeling_analysis_v2.ipynb`
+1. `HSI_band_ratio_optimization.ipynb`
+2. `Airborne_MSI_analysis.ipynb`
+3. `uas_and_AVIRIS_NG_modeling_analysis.ipynb`
 
 Users should refer to the manuscript for detailed methodological context, including data preprocessing, predictor definitions, model forms, validation strategy, and interpretation of the LAI products.
 

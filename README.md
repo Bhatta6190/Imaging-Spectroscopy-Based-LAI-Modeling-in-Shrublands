@@ -124,7 +124,7 @@ The citation should be updated with the final journal reference once the paper i
 
 ## AI Assistance Note
 
-This README file was prepared with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified and reported, the author would be happy to review and resolve it.
+This repository was compiled with assistance from ChatGPT and was reviewed and verified by the author, Ramesh Bhatta. If any discrepancy or unclear information is identified and reported, the author would be happy to review and resolve it.
 
 ## License
 

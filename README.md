@@ -1,4 +1,4 @@
-# UAS-Guided Harmonization of Airborne Imaging Spectroscopy for LAI Retrieval
+# Evaluating UAS-Guided Harmonization of Airborne Imaging Spectroscopy for LAI Retrieval
 
 This repository contains the main analysis notebooks, processed ground LAI data, fire-boundary shapefiles, and predicted LAI raster outputs associated with the manuscript:
 
